@@ -45,7 +45,7 @@
     sorted_data = bubble_sort(data)
     print(sorted_data)  # Output: [1, 2, 3, 4, 5, 6, 7, 8]
 
-# Merge Sort in Python
+# Merge Sort Function in Python
 
     def merge_sort(data):
       """
